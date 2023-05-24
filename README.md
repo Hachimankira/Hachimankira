@@ -52,7 +52,7 @@
 <h2 align="center"><strong> 📊 My Github Stats</strong></h2>
 
   <br/>
- (https://github-readme-stats.vercel.app/api?username=Hachimankira)](https://github.com/Hachimankira/github-readme-stats)
+ <a href="https://github-readme-stats.vercel.app/api?username=Hachimankira)](https://github.com/Hachimankira/github-readme-stats" />
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
