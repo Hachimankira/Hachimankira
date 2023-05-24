@@ -8,7 +8,7 @@
     <a href="[https://www.youtube.com/channel/UCMHiLMj61pOE-cixftZjNrQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ)">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://twitter.com/kiran_sth">
+    <a href="https://www.instagram.com/kiran_shrestha6000/">
       <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
   </div>
