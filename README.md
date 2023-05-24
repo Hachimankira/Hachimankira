@@ -23,11 +23,11 @@
 
 ### :man_technologist: About Me :
 
-- 👋 Hi, I’m @kiranpasalnp
+- 👋 Hi, I’m @Kiran Shrestha
 - 👀 I’m interested in Frontend & Project Management
 - 🌱 I’m currently working in as project manager
-- 💞️ I’m looking to collaborate on Agile Board projects like Jira, etc.
-- 📫 How to reach me Email: kiran.pasalnp@gmail.com
+- 💞️ I’m looking to collaborate on Agile Board projects like Jira, and Frontend projects etc.
+- 📫 How to reach me Email: kiran.pasalnp@gmail.com or kiran9860819025@gmail.com
 
 ---
 
