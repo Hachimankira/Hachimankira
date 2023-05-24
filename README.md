@@ -2,14 +2,14 @@
   <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="100"/>
 
   <div id="badges" >
-    <a href="https://www.linkedin.com/in/ki-ran/">
+    <a href="[https://www.linkedin.com/in/ki-ran/](https://www.linkedin.com/in/kiran-shrestha-823b2520a/)">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.youtube.com/channel/UCMHiLMj61pOE-cixftZjNrQ">
+    <a href="[https://www.youtube.com/channel/UCMHiLMj61pOE-cixftZjNrQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ)">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="https://twitter.com/kiran_sth">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Instagram Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Hachimankira&style=flat-square&color=blue" alt=""/>
