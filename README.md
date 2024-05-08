@@ -25,7 +25,7 @@
 
 - 👋 Hi, I’m @Kiran Shrestha
 - 👀 I’m interested in Full Stack Development
-###- 🌱 I’m currently working in as project manager
+### :- 🌱 I’m currently working in as project manager:
 - 💞️ I’m looking to collaborate on Agile Board projects like Jira, and Frontend projects etc.
 - 📫 How to reach me, Email: kiran9860819025@gmail.com or kiran.pasalnp@gmail.com
 
