@@ -59,10 +59,10 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
-![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hachimankira&show_icons=true&theme=radical)
-<br/>
-<br/>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hachimankira&show_icons=true&theme=radical" alt="Kiran's GitHub stats" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hachimankira&theme=tokyonight" alt="Top Langs" width="45%">
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hachimankira&theme=tokyonight)
 
 
